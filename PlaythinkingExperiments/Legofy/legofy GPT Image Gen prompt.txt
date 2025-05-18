@@ -1,0 +1,26 @@
+﻿Create an image using this prompt
+Create a 3D-rendered LEGO-style digital portrait of a smiling LEGO minifigure.
+
+Use the five uploaded reference photos of the subject to match:
+• Gender:[GENDER]
+• Hairstyle: swept-back, slightly wavy, black LEGO hair
+• Facial structure: rounded face with high cheekbones and soft jaw
+• Makeup*: [MAKEUP DESCRIPTION]
+• Beard*: short, boxed black beard as shown in references Minifigure Design:
+• Skin tone: classic LEGO yellow
+• Shirt: short-sleeve crewneck T-shirt in [SHIRT_COLOR_HEX] with [ADD DESIGN FROM PNG OR TYPE DESCRIPTION
+• Pants: solid LEGO black pants
+• Shoes*: LEGO-style brick made Nike Jordan 1 sneakers, volt green upper, black laces and swoosh (optional lightning bolt shape), white midsole, black outsole
+
+Optional Character (PET):
+Place a LEGO-style [ANIMAL_BREED] standing to the [SIDE] of the minifigure. • Color: yellow body with white front paws and chest • Tail: long and slightly curved upward • Eyes: LEGO-style round, golden brown • Collar: solid black • Expression: happy Environment: 
+
+
+Optional Props/Scene:
+Place a LEGO Jeep Wrangler in [CAR_COLOR_HEX] color with Accents in [CAR_ACCENT_HEX]
+
+
+• Background: green LEGO brick wall in [BG_COLOR_HEX]
+• Floor: dark gray LEGO tiles in [FLOOR_COLOR_HEX], semi-reflective plastic gloss
+• Lighting: soft and diffused, realistic plastic highlights
+• Composition: centered, head-on view • Output format: 1:1 ratio, 4K resolution (min. 1440x1440 px), ultra high detail, 500 DPI
